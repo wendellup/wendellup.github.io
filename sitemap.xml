@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.jdkdo.com/post/firstpost/</loc>
+    <loc>https://wendellup.github.io/post/firstpost/</loc>
     <lastmod>2021-09-06T15:08:00+08:00</lastmod>
   </url><url>
-    <loc>http://blog.jdkdo.com/categories/</loc>
+    <loc>https://wendellup.github.io/categories/</loc>
   </url><url>
-    <loc>http://blog.jdkdo.com/post/</loc>
+    <loc>https://wendellup.github.io/post/</loc>
     <lastmod>2021-09-06T15:08:00+08:00</lastmod>
   </url><url>
-    <loc>http://blog.jdkdo.com/tags/</loc>
+    <loc>https://wendellup.github.io/tags/</loc>
   </url><url>
-    <loc>http://blog.jdkdo.com/</loc>
+    <loc>https://wendellup.github.io/</loc>
     <lastmod>2021-09-06T15:08:00+08:00</lastmod>
   </url>
 </urlset>
